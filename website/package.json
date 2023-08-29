@@ -13,7 +13,7 @@
     "hexo-renderer-stylus": "^0.3.3"
   },
   "devDependencies": {
-    "hexo": "^4.2.1",
+    "hexo": "^7.0.0-rc2",
     "serve": "^11.3.2"
   }
 }
